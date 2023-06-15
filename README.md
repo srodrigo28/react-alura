@@ -1,5 +1,8 @@
 ![Freelando](thumbnail.png)
 
+git remote remove origin
+git remote set-url origin git://new.url.here
+
 * Link
 ```
 https://cursos.alura.com.br/course/solucoes-roteamento-gestao-estado-react-router-context-api/task/124671
